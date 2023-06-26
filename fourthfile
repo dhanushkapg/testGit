@@ -1,4 +1,9 @@
 This is fourth file added for check remote repo
 
 this is fourth file edited 
+<<<<<<< HEAD
 This is another change to check fourth file at fifth time 
+=======
+
+This change is made on remote repo
+>>>>>>> cb701eea32fc8587e9b902eb8eb713c7ef05274d
